@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_LinearSearch\AP_LinearSearch\bin\Debug\AP_LinearSearch.exe.config
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_LinearSearch\AP_LinearSearch\bin\Debug\AP_LinearSearch.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_LinearSearch\AP_LinearSearch\bin\Debug\AP_LinearSearch.pdb
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_LinearSearch\AP_LinearSearch\obj\Debug\AP_LinearSearch.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_LinearSearch\AP_LinearSearch\obj\Debug\AP_LinearSearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_LinearSearch\AP_LinearSearch\obj\Debug\AP_LinearSearch.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_LinearSearch\AP_LinearSearch\obj\Debug\AP_LinearSearch.exe
+C:\Users\KIIT\Desktop\Git Exercise\Assisted_Projects\AP_LinearSearch\AP_LinearSearch\obj\Debug\AP_LinearSearch.pdb
